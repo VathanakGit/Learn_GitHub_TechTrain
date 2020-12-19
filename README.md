@@ -1,2 +1,6 @@
-# learn_github_techtrain
-This is my github learning
+# learn_github
+GitHub Practice Hands-on
+
+I changed it! <-Addition
+
+I changed it from the develop branch! <-Addition
